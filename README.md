@@ -73,7 +73,7 @@ I worked in the Fraud & Operations team, analyzing large-scale transactional and
 <summary><b>Applied projects with industry partners (click to expand)</b></summary>
 <br>
 
-- **Tipico** (2025): compared an XGBoost fraud model against a rule-based baseline 750,000+ behavioral and transaction data points, then used SHAP so the fraud team could see *why* the model flagged someone.
+- **Tipico** (2025): compared an XGBoost fraud model against a rule-based baseline on behavioral and transaction data, then used SHAP so the fraud team could see why the model flagged someone.
 - **VMware** (2022): built an explainable AI (XAI) prototype that points engineers to the likely root cause of cloud application failures, using ~6,000 traces. → [code](https://github.com/lilitpghs/cloud-root-cause-analysis)
 - **Maastricht University** (2025): topic modelling (LDA, BERTopic, NMF) on 3,000+ generative AI patents to track how the technology is evolving.
 
@@ -142,9 +142,9 @@ Each project starts from a business question and ends with a recommendation and 
 
 ## Currently exploring
 
-- AI beyond the hype
-- Practical applications of technology in business
-- The intersection of data, technology and innovation
+- Where AI tools genuinely speed up analysis, and where a human still has to check the numbers
+- Explainable AI: making model decisions understandable to business teams
+- How companies turn data into automated reporting and decisions
 
 <!-- ───────────── FOOTER WAVE ───────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=110&section=footer" width="100%" alt=""/>
