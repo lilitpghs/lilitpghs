@@ -87,46 +87,38 @@ Each project starts from a business question and ends with a recommendation and 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/lilitpghs/telco-churn-retention">
-        <img src="https://raw.githubusercontent.com/lilitpghs/telco-churn-retention/main/figures/13_campaign_profit.png" alt="Churn campaign profit"/>
-      </a>
+      <a href="https://github.com/lilitpghs/telco-churn-retention"><img src="images/churn.png" alt="Churn model reach: top 20% of customers reach 50% of leavers" width="100%"/></a>
       <h3>Customer churn &amp; retention</h3>
-      <i>Who should get a retention offer, and is it worth it?</i><br><br>
-      Offering only where expected value beats cost earns <b>~3.4× the profit</b> of offering to everyone, at 40% of the cost.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/><br><br>
+      <i>Who should get a retention offer, and is it worth it?</i><br><br>
+      Offering only where expected value beats cost earns <b>~3.4× the profit</b> of offering to everyone, at 40% of the cost.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/lilitpghs/marketing-ab-test-analysis">
-        <img src="https://raw.githubusercontent.com/lilitpghs/marketing-ab-test-analysis/main/figures/05_incremental_conversions.png" alt="A/B test incremental conversions"/>
-      </a>
+      <a href="https://github.com/lilitpghs/marketing-ab-test-analysis"><img src="images/ab_test.png" alt="A/B test conversion rates with confidence intervals" width="100%"/></a>
       <h3>Marketing A/B test</h3>
-      <i>Did the ads actually work?</i><br><br>
-      Yes, a <b>+43% lift</b> (p &lt; 0.001). But only ~30% of conversions were caused by the ads, so counting them all overstates the campaign 3×.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" alt="SciPy"/><br><br>
+      <i>Did the ads actually work?</i><br><br>
+      Yes, a <b>+43% lift</b> (p &lt; 0.001). But only ~30% of conversions were caused by the ads, so counting them all overstates the campaign 3×.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/lilitpghs/credit-card-fraud-analysis">
-        <img src="https://raw.githubusercontent.com/lilitpghs/credit-card-fraud-analysis/main/figures/03_hourly_fraud_rate.png" alt="Fraud rate by hour"/>
-      </a>
+      <a href="https://github.com/lilitpghs/credit-card-fraud-analysis"><img src="images/fraud.png" alt="Comparison of fraud alert rules" width="100%"/></a>
       <h3>Credit card fraud</h3>
-      <i>Which simple alert rule should a fraud team start with?</i><br><br>
-      Night-time payments of €1 or less catch <b>1 fraud per 49 checks</b>, against 1 in 600 when checking at random.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL"/><br><br>
+      <i>Which simple alert rule should a fraud team start with?</i><br><br>
+      Night-time payments of €1 or less catch <b>1 fraud per 49 checks</b>, against 1 in 600 when checking at random.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/lilitpghs/bi-kpi-reporting">
-        <img src="https://raw.githubusercontent.com/lilitpghs/bi-kpi-reporting/main/figures/Overview.png" alt="Olist Power BI dashboard"/>
-      </a>
+      <a href="https://github.com/lilitpghs/bi-kpi-reporting"><img src="images/olist.png" alt="Olist Power BI dashboard" width="100%"/></a>
       <h3>Olist sales &amp; delivery dashboard</h3>
-      <i>How is the business doing, and where is delivery failing?</i><br><br>
-      Black Friday pushed on-time delivery below 90%. Northern states wait <b>twice as long</b> as the national average.<br><br>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?logoColor=black" alt="Power BI"/>
-      <img src="https://img.shields.io/badge/DAX-F2C811" alt="DAX"/>
+      <img src="https://img.shields.io/badge/DAX-F2C811" alt="DAX"/><br><br>
+      <i>How is the business doing, and where is delivery failing?</i><br><br>
+      Black Friday pushed on-time delivery below 90%. Northern states wait <b>twice as long</b> as the national average.
     </td>
   </tr>
 </table>
@@ -138,6 +130,7 @@ Each project starts from a business question and ends with a recommendation and 
 </p>
 
 ---
+
 
 ## Currently exploring
 
