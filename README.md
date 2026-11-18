@@ -126,7 +126,7 @@ Each project starts from a business question and ends with a recommendation and 
 <p align="center">
   <b>More:</b>
   <a href="https://github.com/lilitpghs/online-retail-customer-segments">Online retail segments</a> ·
-  <a href="https://github.com/lilitpghs/cloud-root-cause-analysis">Cloud root cause analysis (VMware)</a>
+  <a href="https://github.com/lilitpghs/cloud-root-cause-analysis">Cloud root cause analysis</a>
 </p>
 
 ---
