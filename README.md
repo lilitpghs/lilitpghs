@@ -114,7 +114,7 @@ Each project starts from a business question and ends with a recommendation and 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lilitpghs/bi-kpi-reporting"><img src="images/olist.png" alt="Olist Power BI dashboard" width="100%"/></a>
-      <h3>Olist sales &amp; delivery dashboard</h3>
+      <h3>E-commerce sales &amp; delivery dashboard</h3>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?logoColor=black" alt="Power BI"/>
       <img src="https://img.shields.io/badge/DAX-F2C811" alt="DAX"/><br><br>
       <i>How is the business doing, and where is delivery failing?</i><br><br>
