@@ -56,14 +56,14 @@ I'm now looking for my next analyst role in the Netherlands: **data analyst, BI 
   <img src="https://img.shields.io/badge/Automation-Power%20BI%20Reporting-5B21B6?style=for-the-badge" alt="Automation: Power BI reporting"/>
 </p>
 
-**Methods I'm comfortable with:** AI-assisted analysis · A/B testing · churn modelling · customer segmentation · fraud rules and alerting · explainable ML (SHAP) · topic modelling
+**Methods I'm comfortable with:** AI-assisted analysis · A/B testing · churn modeling · customer segmentation · fraud rules and alerting · explainable AI (SHAP) · topic modeling
 
 ---
 
 ## Where I've worked
 
 **Fraud Analyst · Digitain · 2022–2023**
-I worked in the Fraud & Operations team, analyzing large-scale transactional and behavioral data with SQL, Excel and Power BI to spot suspicious patterns and financial risks. I investigated suspicious and unauthorized activity, built 5+ Power BI dashboards to track fraud trends and operational KPIs, and automated daily fraud and KPI reporting, replacing a manual spreadsheet process.
+I worked in the Fraud & Operations team, analyzing large-scale transactional and behavioral data with SQL, Excel and Power BI to spot suspicious patterns and financial risks. I investigated suspicious and unauthorized activity, built 5+ Power BI dashboards to track fraud trends and operational KPIs and automated daily fraud and KPI reporting, replacing a manual spreadsheet process.
 
 <details>
 <summary><b>Applied projects with industry partners (click to expand)</b></summary>
@@ -71,7 +71,7 @@ I worked in the Fraud & Operations team, analyzing large-scale transactional and
 
 - **Tipico** (2025): compared an XGBoost fraud model against a rule-based baseline on behavioral and transaction data, then used SHAP so the fraud team could see why the model flagged someone.
 - **VMware** (2022): built an explainable AI (XAI) prototype that points engineers to the likely root cause of cloud application failures, using ~6,000 traces. → [code](https://github.com/lilitpghs/cloud-root-cause-analysis)
-- **Maastricht University** (2025): topic modelling (LDA, BERTopic, NMF) on 3,000+ generative AI patents to track how the technology is evolving.
+- **Maastricht University** (2025): topic modeling (LDA, BERTopic, NMF) on 3,000+ generative AI patents to track how the technology is evolving.
 
 </details>
 
@@ -88,7 +88,7 @@ Each project starts from a business question and ends with a recommendation and 
       <h3>Customer churn &amp; retention</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/><br><br>
-      <i>Who should get a retention offer, and is it worth it?</i><br><br>
+      <i>Who should get a retention offer and is it worth it?</i><br><br>
       Offering only where expected value beats cost earns <b>~3.4× the profit</b> of offering to everyone, at 40% of the cost.
     </td>
     <td width="50%" valign="top">
@@ -114,7 +114,7 @@ Each project starts from a business question and ends with a recommendation and 
       <h3>E-commerce sales &amp; delivery dashboard</h3>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?logoColor=black" alt="Power BI"/>
       <img src="https://img.shields.io/badge/DAX-F2C811" alt="DAX"/><br><br>
-      <i>How is the business doing, and where is delivery failing?</i><br><br>
+      <i>How is the business doing and where is delivery failing?</i><br><br>
       Black Friday pushed on-time delivery below 90%. Northern states wait <b>twice as long</b> as the national average.
     </td>
   </tr>
