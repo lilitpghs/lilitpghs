@@ -25,9 +25,6 @@ I'm now looking for my next analyst role in the Netherlands: **data analyst, BI 
 
 <table>
   <tr>
-    <td><b>Based in</b></td><td>The Netherlands</td>
-  </tr>
-  <tr>
     <td><b>Education</b></td><td>MSc Business Intelligence &amp; Smart Services, Maastricht University (2025)<br>MEng Industrial Engineering &amp; Systems Management (Data Analytics), American University of Armenia (2023)</td>
   </tr>
 </table>
