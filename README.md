@@ -131,7 +131,7 @@ Each project starts from a business question and ends with a recommendation and 
 
 ## Currently exploring
 
-- Where AI tools genuinely speed up analysis, and where a human still has to check the numbers
+- Where AI tools genuinely speed up analysis and where a human still has to check the numbers
 - Explainable AI: making model decisions understandable to business teams
 - How companies turn data into automated reporting and decisions
 
