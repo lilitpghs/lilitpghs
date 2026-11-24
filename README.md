@@ -3,8 +3,7 @@
 
 <!-- ───────────── TYPING LINE ───────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Data+analyst;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+ML+%26+Automation;I+turn+messy+data+into+next-week+decisions/>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Data+analyst;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+ML+%26+Automation;I+turn+messy+data+into+next-week+decisions/></p>
 
 <!-- ───────────── CONTACT BADGES ───────────── -->
 <p align="center">
