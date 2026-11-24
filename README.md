@@ -21,7 +21,7 @@ I'm a data analyst based in the Netherlands. I started my career in fraud analyt
 
 AI is part of how I work, in two ways. I build machine-learning models when a problem needs one: fraud detection, root-cause analysis, text analysis of patents. And I use AI assistants like Claude Code to explore data and write code faster, while checking every number myself before it reaches a stakeholder. I also like automating the repetitive parts of the job, like daily reporting, so the team can spend its time on the questions that matter.
 
-I'm now looking for my next analyst role in the Netherlands: **data analyst, BI analyst or fraud/risk analyst.**
+
 
 <table>
   <tr>
